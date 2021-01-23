@@ -1,6 +1,6 @@
 # Steps to be followed:
 1) Install tomcat server, if it is not in your system. The link for installing tomcat is https://archive.apache.org/dist/tomcat/tomcat-8/v8.5.51/bin/apache-tomcat-8.5.51.zip
-2) Pick the war file loaded in this github path and store it in your system
+2) Pick the war file(SimpleLoginScreen.war) loaded in this github path and store it in your system
 3) Upload the war file in the tomcat's webapps folder
 4) Start the tomcat server by running the command "catalina.bat run" from the commandline prompt. Eg:D:\>tomcat\bin\catalina.bat run
 ![Screenshot](tomcat.png)
