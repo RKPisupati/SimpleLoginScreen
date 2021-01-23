@@ -8,7 +8,7 @@
 ![Screenshot](Folder.png)
 6) Now open a browser and run http://localhost:8080/<war file name>/<initial html/jsp/servlet file name>. Eg:http://localhost:8080/SimpleLoginScreen/simplelogin.jsp
   ![Screenshot](login.png)
-7) After entering the login/pwd values as ravi/kumar (we can change these credentials in the java code), we can see the success screen. Otherwise, a failure login screen appears.
+7) After entering the login/pwd values as ravi/kumar (we can change these credentials in the UserLoginCheck.java code), we can see the success screen. Otherwise, a failure login screen appears.
 ![Screenshot](success.png)
 ![Screenshot](failure.png)
 
